@@ -4,23 +4,23 @@
 
 <img src="https://img.shields.io/badge/AI%20Service%20Developer-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Rule%20Engine%20%2B%20LLM-06B6D4?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&style=flat-square&color=555&label=views"/>
+<img src="https://komarev.com/ghpvc/?username=PARKJAEKYUNG0525&style=flat-square&color=555&label=views"/>
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&size=30&pause=1000&color=FF5A36&center=true&vCenter=true&width=520&lines=%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80+%EB%90%98%EB%8A%94+AI%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;I+build+AI+that+people+actually+use" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&size=30&pause=1000&color=FF5A36&center=true&vCenter=true&width=520&lines=v1.0%EC%97%90%EC%84%9C+%EB%A9%88%EC%B6%94%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG"/></a>
 
 <br/>
 
 | My Email | My Blog |
 | :---: | :---: |
-| <a href="mailto:parkjg0525@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> | <img src="https://img.shields.io/badge/BLOG-FF8C00?style=flat-square"/> |
+| <a href="mailto:pjg0525@naver.com"><img src="https://img.shields.io/badge/pjg0525@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> | <a href="https://blog.naver.com/jaekyung_dev"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> |
 
 </div>
 
 ---
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEKYUNG0525&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380"/>
 
 ### 🗂️ My stack is
 
@@ -28,7 +28,7 @@
 
 Language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <br/>
-LLM : <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+LLM : <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <br/>
 Embedding / RAG : <img src="https://img.shields.io/badge/Sentence--BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
 <br/>
@@ -36,7 +36,7 @@ Vision / Speech : <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-
 
 **[BACKEND]**
 
-Language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+Language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <br/>
 Frameworks : <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <br/>
@@ -74,6 +74,7 @@ Collaboration : <img src="https://img.shields.io/badge/Git-F05032?style=flat-squ
 | --- | --- | --- |
 | 🏛️ **BENE** | 청년정책 2,632건 추천·시뮬레이션 서비스<br/>Rule Engine + LLM 하이브리드로 자격요건 추출 **F1 1.000** | `React` `FastAPI` `watsonx.ai` `AWS` |
 | 📇 **CARD:N** | 명함 기반 인맥 관리 앱<br/>Whisper STT(한국어 약 95%) + LLM 대화 요약 담당 | `Whisper` `Gemini` `PaddleOCR` |
+| 📚 **BOOKIT** | 독후감 AI 이해도 검증 리워드 서비스 · 🏆 원티드 AI Championship 2026<br/>AI가 독후감의 빈틈에 꼬리질문, 통과 시 포인트 지급 (5인 팀) | `LLM` `Claude Code` |
 | ✅ **NagTODO** | 친구·알림 기능이 있는 소셜 Todo 서비스<br/>JWT 쿠키 인증, MySQL 이벤트 스케줄러 | `React` `FastAPI` `MySQL` |
 
 ---
@@ -82,12 +83,12 @@ Collaboration : <img src="https://img.shields.io/badge/Git-F05032?style=flat-squ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?PARKJAEKYUNG0525=PARKJAEKYUNG0525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PARKJAEKYUNG0525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://streak-stats.demolab.com?user=PARKJAEKYUNG0525&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PARKJAEKYUNG0525&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
