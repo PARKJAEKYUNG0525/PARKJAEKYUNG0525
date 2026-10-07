@@ -22,7 +22,7 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEKYUNG0525&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380"/>
 
-### 🗂️ My stack is
+### 01. My stack is
 
 **[AI / ML]**
 
@@ -40,7 +40,9 @@ Language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar
 <br/>
 Frameworks : <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <br/>
-Databases : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+Databases : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<br/>
+DB Tool : <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 <br/>
 ORM : <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
 <br/>
@@ -68,18 +70,18 @@ Collaboration : <img src="https://img.shields.io/badge/Git-F05032?style=flat-squ
 
 ---
 
-### 🚀 Projects
+### 02. Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🏛️ **BENE** | 청년정책 2,632건 추천·시뮬레이션 서비스<br/>Rule Engine + LLM 하이브리드로 자격요건 추출 **F1 1.000** | `React` `FastAPI` `watsonx.ai` `AWS` |
-| 📇 **CARD:N** | 명함 기반 인맥 관리 앱<br/>Whisper STT(한국어 약 95%) + LLM 대화 요약 담당 | `Whisper` `Gemini` `PaddleOCR` |
-| 📚 **BOOKIT** | 독후감 AI 이해도 검증 리워드 서비스 · 🏆 원티드 AI Championship 2026<br/>AI가 독후감의 빈틈에 꼬리질문, 통과 시 포인트 지급 (5인 팀) | `LLM` `Claude Code` |
-| ✅ **NagTODO** | 친구·알림 기능이 있는 소셜 Todo 서비스<br/>JWT 쿠키 인증, MySQL 이벤트 스케줄러 | `React` `FastAPI` `MySQL` |
+| **BENE** | 청년정책 2,632건 추천·시뮬레이션 서비스<br/>Rule Engine + LLM 하이브리드로 자격요건 추출 **F1 1.000** | `React` `FastAPI` `watsonx.ai` `AWS` |
+| **CARD:N** | 명함 기반 인맥 관리 앱<br/>Whisper STT(한국어 약 95%) + LLM 대화 요약 담당 | `Whisper` `Gemini` `PaddleOCR` |
+| **BOOKIT** | 독후감 AI 이해도 검증 리워드 서비스 · 원티드 AI Championship 2026<br/>AI가 독후감의 빈틈에 꼬리질문, 통과 시 포인트 지급 (5인 팀) | `LLM` `Claude Code` |
+| **NagTODO** | 친구·알림 기능이 있는 소셜 Todo 서비스<br/>JWT 쿠키 인증, MySQL 이벤트 스케줄러 | `React` `FastAPI` `MySQL` |
 
 ---
 
-### 📊 GitHub Stats
+### 03. GitHub Stats
 
 <div align="center">
 
@@ -91,9 +93,3 @@ Collaboration : <img src="https://img.shields.io/badge/Git-F05032?style=flat-squ
 <img src="https://github-profile-trophy.vercel.app/?username=PARKJAEKYUNG0525&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
----
-
-### 📜 Certificates
-
-<img src="https://img.shields.io/badge/SQLD-0E5A8A?style=flat-square"/> <img src="https://img.shields.io/badge/리눅스마스터%202급-333333?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/컴퓨터활용능력%202급-217346?style=flat-square"/> <img src="https://img.shields.io/badge/MOS%20PPT%20%7C%20Word-D83B01?style=flat-square"/> <img src="https://img.shields.io/badge/IBM%20x%20Red%20Hat%20AX%20Academy-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
