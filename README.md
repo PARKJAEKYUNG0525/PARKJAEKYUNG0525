@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/AI%20Service%20Developer-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Rule%20Engine%20%2B%20LLM-06B6D4?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=555&label=views"/>
+<img src="https://komarev.com/ghpvc/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&style=flat-square&color=555&label=views"/>
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380"/>
 
 ### 🗂️ My stack is
 
@@ -82,12 +82,12 @@ Collaboration : <img src="https://img.shields.io/badge/Git-F05032?style=flat-squ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?PARKJAEKYUNG0525=PARKJAEKYUNG0525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=PARKJAEKYUNG0525&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?PARKJAEKYUNG0525=PARKJAEKYUNG0525&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
